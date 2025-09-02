@@ -3,8 +3,6 @@
   <div align="center" >
      <img  src="Banner.png" style="border-radius:10px;"  alt="Project Banner">
 </div>
- <br />
- <br />
 
  <h3 style="font-weight:700;font-size:30px;">Spylt Animated Website</h3> 
 </div>
@@ -19,28 +17,29 @@
 6. 🔗 [Assets](#links)
 7. 🌐 [Community](#more)
 
+## ⚙️ TECHNOLOGY
 
-| Technology        | Usage                          |
+|TECH STACK        |                               |
 |-------------------|--------------------------------|
+| **Technology**    | **Usage**                      |
 | ⚛️ React 19       | Core UI framework              |
 | 🌀 Tailwind CSS v4| Utility-first CSS styling      |
 | 🎞️ GSAP           | Advanced animations & effects |
+## ✨ Features
 
-## Features
-
-- ✨ Parallax Like a Pro
-- ⚡️ Master Clip-Path Magic
-- 🕹️ Control ScrollTrigger & ScrollSmoother
-- 😉 Pin Elements with Style
-- 🧑‍💻 Reveal Text Like Awwwards Pros
-- 👏 Build GSAP Timelines that Actually Feel Good
-- 📱 It's Fully responsive and mobile-friendly
+> ✨ **Parallax Like a Pro**  
+> ⚡ **Master Clip-Path Magic**  
+> 🕹️ **Control ScrollTrigger & ScrollSmoother**  
+> 😉 **Pin Elements with Style**  
+> 🧑‍💻 **Reveal Text Like Awwwards Pros**  
+> 👏 **Build GSAP Timelines that Actually Feel Good**  
+> 📱 **Responsive & Mobile-Friendly**
 
 ## Quick Start
 
 ```bash
 # 1. Clone the repo
-git clone 
+git clone https://github.com/HarshGoyal2702/Spylt_Animated.git
 
 # 2. Install dependencies
 npm install
@@ -447,4 +446,6 @@ export { flavorlists, nutrientLists, cards };
 
 </details>
 
+## Support
+harshgoyal1331@gmail.com 
 
